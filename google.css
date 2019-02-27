@@ -1,0 +1,36 @@
+.google #google_logo{
+padding-top: 150px;
+text-align: center;
+display: block;
+margin: 0 auto;
+padding-bottom: 20 px;
+}
+
+.form {
+text-align: center;
+padding-top: 10px;
+}
+
+#search {
+width: 450px;
+line-height: 32px;
+}
+
+.form #search {
+padding; 0 10px;
+}
+
+.buttons{
+text-align: center;
+padding-top: 30px;
+}
+
+.button {
+height: 40px;
+line-height: 30px;
+border: 1px solid #F6F6F6;
+background-color: #F6F6F6;
+font-size: 14px;
+border-radius: 4px;
+padding 0 16px;
+}
